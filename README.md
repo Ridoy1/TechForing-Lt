@@ -2,4 +2,4 @@
 
 TOols: HTMLl,JavaScript,Bootstrap
 
-live_side: 
+live_side: https://ridoy1.github.io/TechForing-Lt/index.html
